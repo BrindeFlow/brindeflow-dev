@@ -1,2 +1,3 @@
-# brindeflow-dev
-BrindeFlow for Dev
+# BrindeFlow for Devs
+
+Repositório para Developers
